@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Acadexia</string>
+    <string name="login_title">Connexion</string>
+    <string name="signup_title">Inscription</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="name">Nom</string>
+    <string name="login_button">Se connecter</string>
+    <string name="signup_button">S\'inscrire</string>
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="chat_ai">Chat IA</string>
+    <string name="my_courses">Mes cours</string>
+    <string name="my_tasks">Mes tâches</string>
+    <string name="progress">Progression</string>
+    <string name="profile">Profil</string>
+</resources>
